@@ -1,0 +1,8 @@
+{
+  "name": "7-Eleven Modern",
+  "description": "A premium, conversion-focused landing page for 7-Eleven featuring a rewards program, app showcase, delivery services, and franchise opportunities. Built with React and Framer Motion for a modern convenience-tech experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
